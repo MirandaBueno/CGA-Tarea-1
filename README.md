@@ -1,2 +1,2 @@
 # CGA-Tarea-1
-Crear un repositorio
+:heavy_check_mark: Crear un repositorio
